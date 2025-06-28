@@ -45,4 +45,12 @@ You can find the Docker image here:
 [https://hub.docker.com/repository/docker/mousumidey/flask-app](https://hub.docker.com/repository/docker/mousumidey/flask-app)
 
 
+### 📸 Project Screenshots
+Below are a few screenshots from the Cloud Native Monitoring Application:
+![Dashboard](images/dashboard.png) 
+![Cluster](images/cluster.png)  
+![Nodegroup](images/nodegroup.png)
+![Resources](images/resources.png)  
+
+
 
